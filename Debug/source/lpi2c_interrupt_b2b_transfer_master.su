@@ -1,0 +1,2 @@
+../source/lpi2c_interrupt_b2b_transfer_master.c:49:13:lpi2c_master_callback	24	static
+../source/lpi2c_interrupt_b2b_transfer_master.c:69:5:main	88	static

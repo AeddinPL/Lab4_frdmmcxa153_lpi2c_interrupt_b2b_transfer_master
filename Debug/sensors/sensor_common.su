@@ -1,0 +1,2 @@
+../sensors/sensor_common.c:28:9:sensor_burst_write	24	static
+../sensors/sensor_common.c:57:9:sensor_burst_read	40	static

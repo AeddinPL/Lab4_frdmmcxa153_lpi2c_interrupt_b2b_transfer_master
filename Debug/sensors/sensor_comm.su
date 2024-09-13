@@ -1,0 +1,4 @@
+../sensors/sensor_comm.c:42:6:sensor_i2c_handler	24	static
+../sensors/sensor_comm.c:56:9:sensor_comm_init	48	static
+../sensors/sensor_comm.c:77:9:sensor_comm_write	56	static
+../sensors/sensor_comm.c:117:9:sensor_comm_read	56	static

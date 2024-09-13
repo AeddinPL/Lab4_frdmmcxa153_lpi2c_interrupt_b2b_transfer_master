@@ -1,0 +1,4 @@
+../sensors/nmh1000_driver.c:38:9:nmh1000_init	24	static
+../sensors/nmh1000_driver.c:58:9:nmh1000_read_reg	32	static
+../sensors/nmh1000_driver.c:74:9:nmh1000_write_reg	24	static
+../sensors/nmh1000_driver.c:90:9:nmh1000_get_magnetic_data	24	static

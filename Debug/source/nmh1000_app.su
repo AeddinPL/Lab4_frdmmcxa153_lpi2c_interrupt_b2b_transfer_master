@@ -1,0 +1,8 @@
+C:\Dev\NXP\Training\workspace\frdmmcxa153_lpi2c_interrupt_b2b_transfer_master\CMSIS/core_cm33.h:2587:22:__NVIC_SetPriority	16	static
+C:\Dev\NXP\Training\workspace\frdmmcxa153_lpi2c_interrupt_b2b_transfer_master\CMSIS/core_cm33.h:3140:26:SysTick_Config	16	static
+C:\Dev\NXP\Training\workspace\frdmmcxa153_lpi2c_interrupt_b2b_transfer_master\drivers/fsl_gpio.h:329:20:GPIO_PinWrite	24	static
+../source/nmh1000_app.c:34:6:SysTick_Handler	4	static
+../source/nmh1000_app.c:39:6:delay_ms	24	static
+../source/nmh1000_app.c:45:6:LEDShow	16	static
+../source/nmh1000_app.c:80:6:setColor	24	static
+../source/nmh1000_app.c:121:5:main	24	static
